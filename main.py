@@ -1,4 +1,4 @@
-"""
+
 Multi-timeframe forex confirmation bot.
 
 Strategy (as defined by the user):
@@ -343,11 +343,11 @@ def process_pair(pair, state):
     pip = pip_size(pair)
 
     weekly = fetch_candles(pair, "1week", outputsize=60)
-    time.sleep(1)
+    time.sleep(8)
     daily = fetch_candles(pair, "1day", outputsize=30)
-    time.sleep(1)
+    time.sleep(8)
     h4 = fetch_candles(pair, "4h", outputsize=30)
-    time.sleep(1)
+    time.sleep(8)
 
     if not weekly or not daily or not h4:
         return
