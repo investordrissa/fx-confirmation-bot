@@ -1,1 +1,316 @@
-{}
+{
+  "EUR/USD": {
+    "stage": "watching_weekly",
+    "bias": null,
+    "weekly_confirm_candle": null,
+    "daily_liquidity_level": null,
+    "h4_liquidity_level": null,
+    "entry": null,
+    "sl": null,
+    "tp": null,
+    "breakeven_done": false
+  },
+  "GBP/USD": {
+    "stage": "watching_weekly",
+    "bias": null,
+    "weekly_confirm_candle": null,
+    "daily_liquidity_level": null,
+    "h4_liquidity_level": null,
+    "entry": null,
+    "sl": null,
+    "tp": null,
+    "breakeven_done": false
+  },
+  "USD/JPY": {
+    "stage": "watching_weekly",
+    "bias": null,
+    "weekly_confirm_candle": null,
+    "daily_liquidity_level": null,
+    "h4_liquidity_level": null,
+    "entry": null,
+    "sl": null,
+    "tp": null,
+    "breakeven_done": false
+  },
+  "USD/CHF": {
+    "stage": "watching_weekly",
+    "bias": null,
+    "weekly_confirm_candle": null,
+    "daily_liquidity_level": null,
+    "h4_liquidity_level": null,
+    "entry": null,
+    "sl": null,
+    "tp": null,
+    "breakeven_done": false
+  },
+  "USD/CAD": {
+    "stage": "watching_weekly",
+    "bias": null,
+    "weekly_confirm_candle": null,
+    "daily_liquidity_level": null,
+    "h4_liquidity_level": null,
+    "entry": null,
+    "sl": null,
+    "tp": null,
+    "breakeven_done": false
+  },
+  "AUD/USD": {
+    "stage": "watching_weekly",
+    "bias": null,
+    "weekly_confirm_candle": null,
+    "daily_liquidity_level": null,
+    "h4_liquidity_level": null,
+    "entry": null,
+    "sl": null,
+    "tp": null,
+    "breakeven_done": false
+  },
+  "NZD/USD": {
+    "stage": "watching_weekly",
+    "bias": null,
+    "weekly_confirm_candle": null,
+    "daily_liquidity_level": null,
+    "h4_liquidity_level": null,
+    "entry": null,
+    "sl": null,
+    "tp": null,
+    "breakeven_done": false
+  },
+  "EUR/GBP": {
+    "stage": "watching_weekly",
+    "bias": null,
+    "weekly_confirm_candle": null,
+    "daily_liquidity_level": null,
+    "h4_liquidity_level": null,
+    "entry": null,
+    "sl": null,
+    "tp": null,
+    "breakeven_done": false
+  },
+  "EUR/JPY": {
+    "stage": "watching_weekly",
+    "bias": null,
+    "weekly_confirm_candle": null,
+    "daily_liquidity_level": null,
+    "h4_liquidity_level": null,
+    "entry": null,
+    "sl": null,
+    "tp": null,
+    "breakeven_done": false
+  },
+  "EUR/CHF": {
+    "stage": "watching_weekly",
+    "bias": null,
+    "weekly_confirm_candle": null,
+    "daily_liquidity_level": null,
+    "h4_liquidity_level": null,
+    "entry": null,
+    "sl": null,
+    "tp": null,
+    "breakeven_done": false
+  },
+  "EUR/CAD": {
+    "stage": "watching_weekly",
+    "bias": null,
+    "weekly_confirm_candle": null,
+    "daily_liquidity_level": null,
+    "h4_liquidity_level": null,
+    "entry": null,
+    "sl": null,
+    "tp": null,
+    "breakeven_done": false
+  },
+  "EUR/AUD": {
+    "stage": "watching_weekly",
+    "bias": null,
+    "weekly_confirm_candle": null,
+    "daily_liquidity_level": null,
+    "h4_liquidity_level": null,
+    "entry": null,
+    "sl": null,
+    "tp": null,
+    "breakeven_done": false
+  },
+  "EUR/NZD": {
+    "stage": "watching_weekly",
+    "bias": null,
+    "weekly_confirm_candle": null,
+    "daily_liquidity_level": null,
+    "h4_liquidity_level": null,
+    "entry": null,
+    "sl": null,
+    "tp": null,
+    "breakeven_done": false
+  },
+  "GBP/JPY": {
+    "stage": "watching_weekly",
+    "bias": null,
+    "weekly_confirm_candle": null,
+    "daily_liquidity_level": null,
+    "h4_liquidity_level": null,
+    "entry": null,
+    "sl": null,
+    "tp": null,
+    "breakeven_done": false
+  },
+  "GBP/CHF": {
+    "stage": "watching_weekly",
+    "bias": null,
+    "weekly_confirm_candle": null,
+    "daily_liquidity_level": null,
+    "h4_liquidity_level": null,
+    "entry": null,
+    "sl": null,
+    "tp": null,
+    "breakeven_done": false
+  },
+  "GBP/CAD": {
+    "stage": "watching_weekly",
+    "bias": null,
+    "weekly_confirm_candle": null,
+    "daily_liquidity_level": null,
+    "h4_liquidity_level": null,
+    "entry": null,
+    "sl": null,
+    "tp": null,
+    "breakeven_done": false
+  },
+  "GBP/AUD": {
+    "stage": "watching_weekly",
+    "bias": null,
+    "weekly_confirm_candle": null,
+    "daily_liquidity_level": null,
+    "h4_liquidity_level": null,
+    "entry": null,
+    "sl": null,
+    "tp": null,
+    "breakeven_done": false
+  },
+  "GBP/NZD": {
+    "stage": "watching_weekly",
+    "bias": null,
+    "weekly_confirm_candle": null,
+    "daily_liquidity_level": null,
+    "h4_liquidity_level": null,
+    "entry": null,
+    "sl": null,
+    "tp": null,
+    "breakeven_done": false
+  },
+  "AUD/JPY": {
+    "stage": "weekly_confirmed",
+    "bias": "short",
+    "weekly_confirm_candle": {
+      "datetime": "2026-08-31",
+      "open": 114.57792,
+      "high": 114.72905,
+      "low": 111.68148,
+      "close": 112.55499
+    },
+    "daily_liquidity_level": null,
+    "h4_liquidity_level": null,
+    "entry": null,
+    "sl": null,
+    "tp": null,
+    "breakeven_done": false
+  },
+  "AUD/CAD": {
+    "stage": "watching_weekly",
+    "bias": null,
+    "weekly_confirm_candle": null,
+    "daily_liquidity_level": null,
+    "h4_liquidity_level": null,
+    "entry": null,
+    "sl": null,
+    "tp": null,
+    "breakeven_done": false
+  },
+  "AUD/CHF": {
+    "stage": "watching_weekly",
+    "bias": null,
+    "weekly_confirm_candle": null,
+    "daily_liquidity_level": null,
+    "h4_liquidity_level": null,
+    "entry": null,
+    "sl": null,
+    "tp": null,
+    "breakeven_done": false
+  },
+  "AUD/NZD": {
+    "stage": "watching_weekly",
+    "bias": null,
+    "weekly_confirm_candle": null,
+    "daily_liquidity_level": null,
+    "h4_liquidity_level": null,
+    "entry": null,
+    "sl": null,
+    "tp": null,
+    "breakeven_done": false
+  },
+  "NZD/JPY": {
+    "stage": "watching_weekly",
+    "bias": null,
+    "weekly_confirm_candle": null,
+    "daily_liquidity_level": null,
+    "h4_liquidity_level": null,
+    "entry": null,
+    "sl": null,
+    "tp": null,
+    "breakeven_done": false
+  },
+  "NZD/CAD": {
+    "stage": "watching_weekly",
+    "bias": null,
+    "weekly_confirm_candle": null,
+    "daily_liquidity_level": null,
+    "h4_liquidity_level": null,
+    "entry": null,
+    "sl": null,
+    "tp": null,
+    "breakeven_done": false
+  },
+  "NZD/CHF": {
+    "stage": "watching_weekly",
+    "bias": null,
+    "weekly_confirm_candle": null,
+    "daily_liquidity_level": null,
+    "h4_liquidity_level": null,
+    "entry": null,
+    "sl": null,
+    "tp": null,
+    "breakeven_done": false
+  },
+  "CAD/JPY": {
+    "stage": "watching_weekly",
+    "bias": null,
+    "weekly_confirm_candle": null,
+    "daily_liquidity_level": null,
+    "h4_liquidity_level": null,
+    "entry": null,
+    "sl": null,
+    "tp": null,
+    "breakeven_done": false
+  },
+  "CAD/CHF": {
+    "stage": "watching_weekly",
+    "bias": null,
+    "weekly_confirm_candle": null,
+    "daily_liquidity_level": null,
+    "h4_liquidity_level": null,
+    "entry": null,
+    "sl": null,
+    "tp": null,
+    "breakeven_done": false
+  },
+  "CHF/JPY": {
+    "stage": "watching_weekly",
+    "bias": null,
+    "weekly_confirm_candle": null,
+    "daily_liquidity_level": null,
+    "h4_liquidity_level": null,
+    "entry": null,
+    "sl": null,
+    "tp": null,
+    "breakeven_done": false
+  }
+}
