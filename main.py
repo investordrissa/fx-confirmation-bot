@@ -1,3 +1,4 @@
+"""
 
 Multi-timeframe forex confirmation bot.
 
