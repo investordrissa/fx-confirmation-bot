@@ -22,9 +22,15 @@
     "breakeven_done": false
   },
   "USD/JPY": {
-    "stage": "watching_weekly",
-    "bias": null,
-    "weekly_confirm_candle": null,
+    "stage": "weekly_confirmed",
+    "bias": "long",
+    "weekly_confirm_candle": {
+      "datetime": "2026-09-14",
+      "open": 153.5839,
+      "high": 156.41302,
+      "low": 153.21967,
+      "close": 156.23772
+    },
     "daily_liquidity_level": null,
     "h4_liquidity_level": null,
     "entry": null,
