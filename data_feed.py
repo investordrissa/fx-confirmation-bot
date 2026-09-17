@@ -21,6 +21,8 @@ def cache_ttl(interval):
         return 24 * 60 * 60
     if interval == "4h":
         return 4 * 60 * 60
+    if interval == "1min":
+        return 30
     return 60 * 60
 
 
