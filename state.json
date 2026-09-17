@@ -22,7 +22,7 @@
     "breakeven_done": false
   },
   "USD/JPY": {
-    "stage": "weekly_confirmed",
+    "stage": "daily_watch",
     "bias": "long",
     "weekly_confirm_candle": {
       "datetime": "2026-09-14",
@@ -182,9 +182,15 @@
     "breakeven_done": false
   },
   "GBP/AUD": {
-    "stage": "watching_weekly",
-    "bias": null,
-    "weekly_confirm_candle": null,
+    "stage": "weekly_confirmed",
+    "bias": "short",
+    "weekly_confirm_candle": {
+      "datetime": "2026-09-14",
+      "open": 1.88815,
+      "high": 1.89509,
+      "low": 1.88094,
+      "close": 1.88287
+    },
     "daily_liquidity_level": null,
     "h4_liquidity_level": null,
     "entry": null,
