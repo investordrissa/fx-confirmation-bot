@@ -1,0 +1,467 @@
+{
+  "EUR/USD": {
+    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "direction": "BUY",
+    "zone": {
+      "low": 1.15759,
+      "high": 1.18356,
+      "kind": "OB",
+      "valid": true,
+      "direction": "BUY"
+    },
+    "weekly_confirmation_index": null,
+    "daily_liquidity": null,
+    "h4_confirmation_price": null,
+    "h4_notified": []
+  },
+  "GBP/USD": {
+    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "direction": "BUY",
+    "zone": {
+      "low": 1.34593,
+      "high": 1.36949,
+      "kind": "OB",
+      "valid": true,
+      "direction": "BUY"
+    },
+    "weekly_confirmation_index": null,
+    "daily_liquidity": null,
+    "h4_confirmation_price": null,
+    "h4_notified": []
+  },
+  "USD/JPY": {
+    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "direction": "BUY",
+    "zone": {
+      "low": 151.86501,
+      "high": 160.2,
+      "kind": "OB",
+      "valid": true,
+      "direction": "BUY"
+    },
+    "weekly_confirmation_index": null,
+    "daily_liquidity": null,
+    "h4_confirmation_price": null,
+    "h4_notified": []
+  },
+  "USD/CHF": {
+    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "direction": "SELL",
+    "zone": {
+      "low": 0.80884999,
+      "high": 0.82152998,
+      "kind": "OB",
+      "valid": true,
+      "direction": "SELL"
+    },
+    "weekly_confirmation_index": null,
+    "daily_liquidity": null,
+    "h4_confirmation_price": null,
+    "h4_notified": []
+  },
+  "USD/CAD": {
+    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "direction": "BUY",
+    "zone": {
+      "low": 1.3854,
+      "high": 1.41435,
+      "kind": "OB",
+      "valid": true,
+      "direction": "BUY"
+    },
+    "weekly_confirmation_index": null,
+    "daily_liquidity": null,
+    "h4_confirmation_price": null,
+    "h4_notified": []
+  },
+  "AUD/USD": {
+    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "direction": "BUY",
+    "zone": {
+      "low": 0.70410001,
+      "high": 0.72390002,
+      "kind": "OB",
+      "valid": true,
+      "direction": "BUY"
+    },
+    "weekly_confirmation_index": null,
+    "daily_liquidity": null,
+    "h4_confirmation_price": null,
+    "h4_notified": []
+  },
+  "NZD/USD": {
+    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "direction": "BUY",
+    "zone": {
+      "low": 0.54699999,
+      "high": 0.61549997,
+      "kind": "OB",
+      "valid": true,
+      "direction": "BUY"
+    },
+    "weekly_confirmation_index": null,
+    "daily_liquidity": null,
+    "h4_confirmation_price": null,
+    "h4_notified": []
+  },
+  "EUR/GBP": {
+    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "direction": "BUY",
+    "zone": {
+      "low": 0.84899998,
+      "high": 0.86549997,
+      "kind": "OB",
+      "valid": true,
+      "direction": "BUY"
+    },
+    "weekly_confirmation_index": null,
+    "daily_liquidity": null,
+    "h4_confirmation_price": null,
+    "h4_notified": []
+  },
+  "EUR/JPY": {
+    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "direction": "BUY",
+    "zone": {
+      "low": 175.69501,
+      "high": 178.821,
+      "kind": "ACCUMULATION",
+      "valid": true,
+      "direction": "BUY"
+    },
+    "weekly_confirmation_index": null,
+    "daily_liquidity": null,
+    "h4_confirmation_price": null,
+    "h4_notified": []
+  },
+  "EUR/CHF": {
+    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "direction": "BUY",
+    "zone": {
+      "low": 0.94169998,
+      "high": 0.95375001,
+      "kind": "OB",
+      "valid": true,
+      "direction": "BUY"
+    },
+    "weekly_confirmation_index": null,
+    "daily_liquidity": null,
+    "h4_confirmation_price": null,
+    "h4_notified": []
+  },
+  "EUR/CAD": {
+    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "direction": "BUY",
+    "zone": {
+      "low": 1.57664,
+      "high": 1.61083,
+      "kind": "OB",
+      "valid": true,
+      "direction": "BUY"
+    },
+    "weekly_confirmation_index": null,
+    "daily_liquidity": null,
+    "h4_confirmation_price": null,
+    "h4_notified": []
+  },
+  "EUR/AUD": {
+    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "direction": "BUY",
+    "zone": {
+      "low": 1.6009,
+      "high": 1.6256,
+      "kind": "OB",
+      "valid": true,
+      "direction": "BUY"
+    },
+    "weekly_confirmation_index": null,
+    "daily_liquidity": null,
+    "h4_confirmation_price": null,
+    "h4_notified": []
+  },
+  "EUR/NZD": {
+    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "direction": "SELL",
+    "zone": {
+      "low": 1.96509,
+      "high": 2.0034001,
+      "kind": "OB",
+      "valid": true,
+      "direction": "SELL"
+    },
+    "weekly_confirmation_index": null,
+    "daily_liquidity": null,
+    "h4_confirmation_price": null,
+    "h4_notified": []
+  },
+  "GBP/JPY": {
+    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "direction": "SELL",
+    "zone": {
+      "low": 202.11,
+      "high": 208.12,
+      "kind": "ACCUMULATION",
+      "valid": true,
+      "direction": "SELL"
+    },
+    "weekly_confirmation_index": null,
+    "daily_liquidity": null,
+    "h4_confirmation_price": null,
+    "h4_notified": []
+  },
+  "GBP/CHF": {
+    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "direction": "BUY",
+    "zone": {
+      "low": 1.0204,
+      "high": 1.1152,
+      "kind": "OB",
+      "valid": true,
+      "direction": "BUY"
+    },
+    "weekly_confirmation_index": null,
+    "daily_liquidity": null,
+    "h4_confirmation_price": null,
+    "h4_notified": []
+  },
+  "GBP/CAD": {
+    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "direction": "SELL",
+    "zone": {
+      "low": 1.84363,
+      "high": 1.88311,
+      "kind": "OB",
+      "valid": true,
+      "direction": "SELL"
+    },
+    "weekly_confirmation_index": null,
+    "daily_liquidity": null,
+    "h4_confirmation_price": null,
+    "h4_notified": []
+  },
+  "GBP/AUD": {
+    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "direction": "SELL",
+    "zone": {
+      "low": 1.8851,
+      "high": 1.91605,
+      "kind": "OB",
+      "valid": true,
+      "direction": "SELL"
+    },
+    "weekly_confirmation_index": null,
+    "daily_liquidity": null,
+    "h4_confirmation_price": null,
+    "h4_notified": []
+  },
+  "GBP/NZD": {
+    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "direction": "BUY",
+    "zone": {
+      "low": 2.30403,
+      "high": 2.32561,
+      "kind": "OB",
+      "valid": true,
+      "direction": "BUY"
+    },
+    "weekly_confirmation_index": null,
+    "daily_liquidity": null,
+    "h4_confirmation_price": null,
+    "h4_notified": []
+  },
+  "AUD/JPY": {
+    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "direction": "SELL",
+    "zone": {
+      "low": 106.8781,
+      "high": 110.38436,
+      "kind": "OB",
+      "valid": true,
+      "direction": "SELL"
+    },
+    "weekly_confirmation_index": null,
+    "daily_liquidity": null,
+    "h4_confirmation_price": null,
+    "h4_notified": []
+  },
+  "AUD/CHF": {
+    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "direction": "SELL",
+    "zone": {
+      "low": 0.58256185,
+      "high": 0.59249997,
+      "kind": "OB",
+      "valid": true,
+      "direction": "SELL"
+    },
+    "weekly_confirmation_index": null,
+    "daily_liquidity": null,
+    "h4_confirmation_price": null,
+    "h4_notified": []
+  },
+  "AUD/CAD": {
+    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "direction": "SELL",
+    "zone": {
+      "low": 0.99119997,
+      "high": 1.0013,
+      "kind": "OB",
+      "valid": true,
+      "direction": "SELL"
+    },
+    "weekly_confirmation_index": null,
+    "daily_liquidity": null,
+    "h4_confirmation_price": null,
+    "h4_notified": []
+  },
+  "AUD/NZD": {
+    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "direction": "SELL",
+    "zone": {
+      "low": 1.2241055,
+      "high": 1.2331145,
+      "kind": "SWING_HIGH",
+      "valid": true,
+      "direction": "SELL"
+    },
+    "weekly_confirmation_index": null,
+    "daily_liquidity": null,
+    "h4_confirmation_price": null,
+    "h4_notified": []
+  },
+  "NZD/JPY": {
+    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "direction": "BUY",
+    "zone": {
+      "low": 89.040001,
+      "high": 90.43,
+      "kind": "OB",
+      "valid": true,
+      "direction": "BUY"
+    },
+    "weekly_confirmation_index": null,
+    "daily_liquidity": null,
+    "h4_confirmation_price": null,
+    "h4_notified": []
+  },
+  "NZD/CHF": {
+    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "direction": "BUY",
+    "zone": {
+      "low": 0.47455001,
+      "high": 0.48187,
+      "kind": "OB",
+      "valid": true,
+      "direction": "BUY"
+    },
+    "weekly_confirmation_index": null,
+    "daily_liquidity": null,
+    "h4_confirmation_price": null,
+    "h4_notified": []
+  },
+  "NZD/CAD": {
+    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "direction": "BUY",
+    "zone": {
+      "low": 0.80720001,
+      "high": 0.82505,
+      "kind": "OB",
+      "valid": true,
+      "direction": "BUY"
+    },
+    "weekly_confirmation_index": null,
+    "daily_liquidity": null,
+    "h4_confirmation_price": null,
+    "h4_notified": []
+  },
+  "CAD/JPY": {
+    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "direction": "BUY",
+    "zone": {
+      "low": 108.94,
+      "high": 111.0,
+      "kind": "OB",
+      "valid": true,
+      "direction": "BUY"
+    },
+    "weekly_confirmation_index": null,
+    "daily_liquidity": null,
+    "h4_confirmation_price": null,
+    "h4_notified": []
+  },
+  "CAD/CHF": {
+    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "direction": "SELL",
+    "zone": {
+      "low": 0.58692002,
+      "high": 0.59381998,
+      "kind": "FVG",
+      "valid": true,
+      "direction": "SELL"
+    },
+    "weekly_confirmation_index": null,
+    "daily_liquidity": null,
+    "h4_confirmation_price": null,
+    "h4_notified": []
+  },
+  "CHF/JPY": {
+    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "direction": "BUY",
+    "zone": {
+      "low": 187.121,
+      "high": 191.16299,
+      "kind": "ACCUMULATION",
+      "valid": true,
+      "direction": "BUY"
+    },
+    "weekly_confirmation_index": null,
+    "daily_liquidity": null,
+    "h4_confirmation_price": null,
+    "h4_notified": []
+  },
+  "XAU/USD": {
+    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "direction": "SELL",
+    "zone": {
+      "low": 4338.17759,
+      "high": 4550.78973,
+      "kind": "OB",
+      "valid": true,
+      "direction": "SELL"
+    },
+    "weekly_confirmation_index": null,
+    "daily_liquidity": null,
+    "h4_confirmation_price": null,
+    "h4_notified": []
+  },
+  "BTC/USD": {
+    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "direction": "BUY",
+    "zone": {
+      "low": 74937.52,
+      "high": 79485.66,
+      "kind": "OB",
+      "valid": true,
+      "direction": "BUY"
+    },
+    "weekly_confirmation_index": null,
+    "daily_liquidity": null,
+    "h4_confirmation_price": null,
+    "h4_notified": []
+  },
+  "ETH/USD": {
+    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "direction": "BUY",
+    "zone": {
+      "low": 2447.73999,
+      "high": 2772.090088,
+      "kind": "OB",
+      "valid": true,
+      "direction": "BUY"
+    },
+    "weekly_confirmation_index": null,
+    "daily_liquidity": null,
+    "h4_confirmation_price": null,
+    "h4_notified": []
+  }
+}
