@@ -30,7 +30,7 @@
     "h4_notified": []
   },
   "USD/JPY": {
-    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "stage": "AWAIT_WEEKLY_RETEST",
     "direction": "BUY",
     "zone": {
       "low": 151.86501,
@@ -39,7 +39,7 @@
       "valid": true,
       "direction": "BUY"
     },
-    "weekly_confirmation_index": null,
+    "weekly_confirmation_index": 499,
     "daily_liquidity": null,
     "h4_confirmation_price": null,
     "h4_notified": []
@@ -240,7 +240,7 @@
     "h4_notified": []
   },
   "GBP/AUD": {
-    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "stage": "AWAIT_WEEKLY_RETEST",
     "direction": "SELL",
     "zone": {
       "low": 1.8851,
@@ -249,7 +249,7 @@
       "valid": true,
       "direction": "SELL"
     },
-    "weekly_confirmation_index": null,
+    "weekly_confirmation_index": 499,
     "daily_liquidity": null,
     "h4_confirmation_price": null,
     "h4_notified": []
@@ -435,7 +435,7 @@
     "h4_notified": []
   },
   "BTC/USD": {
-    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "stage": "AWAIT_WEEKLY_RETEST",
     "direction": "BUY",
     "zone": {
       "low": 74937.52,
@@ -444,13 +444,13 @@
       "valid": true,
       "direction": "BUY"
     },
-    "weekly_confirmation_index": null,
+    "weekly_confirmation_index": 472,
     "daily_liquidity": null,
     "h4_confirmation_price": null,
     "h4_notified": []
   },
   "ETH/USD": {
-    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "stage": "AWAIT_WEEKLY_RETEST",
     "direction": "BUY",
     "zone": {
       "low": 2447.73999,
@@ -459,7 +459,7 @@
       "valid": true,
       "direction": "BUY"
     },
-    "weekly_confirmation_index": null,
+    "weekly_confirmation_index": 452,
     "daily_liquidity": null,
     "h4_confirmation_price": null,
     "h4_notified": []
