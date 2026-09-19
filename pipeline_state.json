@@ -390,7 +390,7 @@
     "h4_notified": []
   },
   "CAD/CHF": {
-    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "stage": "AWAIT_WEEKLY_RETEST",
     "direction": "SELL",
     "zone": {
       "low": 0.58692002,
@@ -399,7 +399,7 @@
       "valid": true,
       "direction": "SELL"
     },
-    "weekly_confirmation_index": null,
+    "weekly_confirmation_index": 499,
     "daily_liquidity": null,
     "h4_confirmation_price": null,
     "h4_notified": []
