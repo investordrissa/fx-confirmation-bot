@@ -28,6 +28,38 @@ def save_json(path, data):
     os.replace(tmp, path)
 
 
+REPO = "investordrissa/fx-confirmation-bot"
+
+
+def send_msg(chat_id, text):
+    try:
+        requests.post(
+            f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage",
+            json={"chat_id": chat_id, "text": text},
+            timeout=15,
+        )
+    except Exception as e:
+        print("sendMessage failed:", e)
+
+
+def trigger_scan():
+    token = os.environ.get("GH_TOKEN", "")
+    if not token:
+        return False, "GH_TOKEN missing"
+    r = requests.post(
+        f"https://api.github.com/repos/{REPO}/actions/workflows/run-bot.yml/dispatches",
+        headers={
+            "Authorization": f"Bearer {token}",
+            "Accept": "application/vnd.github+json",
+        },
+        json={"ref": "main"},
+        timeout=20,
+    )
+    if r.status_code == 204:
+        return True, "ok"
+    return False, f"{r.status_code} {r.text[:200]}"
+
+
 def main():
     offset_data = load_json(OFFSET_FILE, {"offset": 0})
     alerts = load_json(ALERTS_FILE, [])
@@ -52,6 +84,15 @@ def main():
         text = (message.get("text") or "").strip()
 
         if chat_id not in [str(c) for c in TELEGRAM_CHAT_IDS]:
+            continue
+
+        if text.lower().split("@")[0] == "/scan":
+            ok, info = trigger_scan()
+            if ok:
+                send_msg(chat_id, "Scan started. Results will arrive here if any setup is found.")
+            else:
+                send_msg(chat_id, f"Could not start scan: {info}")
+            print("scan triggered:", ok, info)
             continue
 
         match = ALERT_RE.match(text)
