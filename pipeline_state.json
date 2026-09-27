@@ -165,7 +165,7 @@
     "h4_notified": []
   },
   "EUR/AUD": {
-    "stage": "AWAIT_WEEKLY_RETEST",
+    "stage": "AWAIT_DAILY_LIQUIDITY",
     "direction": "BUY",
     "zone": {
       "low": 1.6009,
