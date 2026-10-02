@@ -180,7 +180,7 @@
     "h4_notified": []
   },
   "EUR/NZD": {
-    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "stage": "AWAIT_WEEKLY_RETEST",
     "direction": "SELL",
     "zone": {
       "low": 1.96509,
@@ -189,7 +189,7 @@
       "valid": true,
       "direction": "SELL"
     },
-    "weekly_confirmation_index": null,
+    "weekly_confirmation_index": 499,
     "daily_liquidity": null,
     "h4_confirmation_price": null,
     "h4_notified": []
@@ -210,7 +210,7 @@
     "h4_notified": []
   },
   "GBP/CHF": {
-    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "stage": "AWAIT_WEEKLY_RETEST",
     "direction": "BUY",
     "zone": {
       "low": 1.0204,
@@ -219,7 +219,7 @@
       "valid": true,
       "direction": "BUY"
     },
-    "weekly_confirmation_index": null,
+    "weekly_confirmation_index": 499,
     "daily_liquidity": null,
     "h4_confirmation_price": null,
     "h4_notified": []
@@ -255,7 +255,7 @@
     "h4_notified": []
   },
   "GBP/NZD": {
-    "stage": "AWAIT_WEEKLY_CONFIRMATION",
+    "stage": "AWAIT_WEEKLY_RETEST",
     "direction": "BUY",
     "zone": {
       "low": 2.30403,
@@ -264,7 +264,7 @@
       "valid": true,
       "direction": "BUY"
     },
-    "weekly_confirmation_index": null,
+    "weekly_confirmation_index": 499,
     "daily_liquidity": null,
     "h4_confirmation_price": null,
     "h4_notified": []
