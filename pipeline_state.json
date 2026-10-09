@@ -450,7 +450,7 @@
     "h4_notified": []
   },
   "ETH/USD": {
-    "stage": "AWAIT_WEEKLY_RETEST",
+    "stage": "AWAIT_DAILY_LIQUIDITY",
     "direction": "BUY",
     "zone": {
       "low": 2447.73999,
