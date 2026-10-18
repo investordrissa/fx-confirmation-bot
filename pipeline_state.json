@@ -435,7 +435,7 @@
     "h4_notified": []
   },
   "BTC/USD": {
-    "stage": "AWAIT_WEEKLY_RETEST",
+    "stage": "AWAIT_DAILY_LIQUIDITY",
     "direction": "BUY",
     "zone": {
       "low": 74937.52,
