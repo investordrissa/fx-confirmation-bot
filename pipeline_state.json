@@ -75,7 +75,7 @@
     "h4_notified": []
   },
   "AUD/USD": {
-    "stage": "AWAIT_WEEKLY_RETEST",
+    "stage": "AWAIT_DAILY_LIQUIDITY",
     "direction": "BUY",
     "zone": {
       "low": 0.70410001,
